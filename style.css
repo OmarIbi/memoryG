@@ -1,0 +1,28 @@
+body {
+display: flex;
+flex-wrap: wrap;
+width: 250px;
+height: 320px;
+clear: left;
+}
+
+h1
+{ 
+    font-family: sans-serif;
+    border-style: dashed;
+}
+div
+{
+    width: 250px;
+    height: 320px;
+}
+html
+{
+    width: 250px !important;
+    height: 320px !important;
+}
+#alert
+{
+    display: none;
+    color: red;
+}
